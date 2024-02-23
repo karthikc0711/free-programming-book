@@ -1,13 +1,10 @@
 # free-programming-book
-## BY PROGRAMMING LANGUAGE
 
-# Programming Books Repository
+## Programming Books Repository
 
 Welcome to the Programming Books Repository! This repository curates a comprehensive list of programming books covering a wide range of topics. Whether you're a beginner or an experienced programmer, you'll find valuable resources here to enhance your skills and knowledge.
 
-## Overview
 
-Originally, this repository included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language. However, to provide a more organized and user-friendly experience, we've categorized the books into specific programming languages and topics.
 
 ## Categories
 
